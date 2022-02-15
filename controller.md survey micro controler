@@ -1,0 +1,30 @@
+# ATMEGA128
+### ราคาประมาณ500-600 บาท
+### https://docs.platformio.org/en/latest/boards/atmelavr/ATmega128.html
+### ความเร็ว 16MHz
+### หน่วยความจำ 4KB
+###  USB
+# PIC32MX534F064L
+### ราคาประมาณ 100-200 บาท 
+### https://www.microchip.com/en-us/product/PIC32MX534F064L
+### ความเร็ว 80 MHz
+### หน่วยความจำ 64KM
+### USB device/host/otg
+# NRF51822
+### ราคาประมาณ 400 บาท
+### https://www.nordicsemi.com/products/nrf51822
+### ความเร็ว 16 MHz
+### หน่วยความจำ 32/16 KB
+### USB
+# STM32F469NIH6
+### ราคาประมาณ 649 บาท
+### https://th.rs-online.com/web/p/microcontrollers/1658169?cm_mmc=TH-PPC-DS3A-_-google-_-3_TH_EN_Semiconductors_Microcontrollers_Phrase-_-STMicroelectronics+-+1658169+-+STM32F469NIH6-_-stm32f469nih6&matchtype=p&kwd-338065422381&gclid=Cj0KCQiAu62QBhC7ARIsALXijXRtMC-fa5PUXSlOPgofNmTUH_PsgA1rRzQySTY3eUD_rVs6Wi0fTCwaApYAEALw_wcB&gclsrc=aw.ds
+### ความเร็ว 180 MHz
+### หน่วยความจำ 4KB
+### Up to 2x USB 2.0 OTG FS/HS
+# GAP8
+### ราคาประมาณ
+### https://docs.platformio.org/en/latest/boards/riscv_gap/gapuino.html และ https://en.wikichip.org/wiki/greenwaves/gap8
+### ความเร็ว 250 MHz
+### หน่วยความจำ 8MB
+### USB 
