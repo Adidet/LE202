@@ -22,7 +22,7 @@
 ### ความเร็ว 180 MHz
 ### หน่วยความจำ 4KB
 ### Up to 2x USB 2.0 OTG FS/HS
-# GAP8
+# GAP8 RISC-V
 ### ราคาประมาณ 160 บาท
 ### https://docs.platformio.org/en/latest/boards/riscv_gap/gapuino.html และ https://en.wikichip.org/wiki/greenwaves/gap8
 ### ความเร็ว 250 MHz
